@@ -21,7 +21,7 @@ int main()
 
     if (max > 0) {
         printf("\nLine length: %d\n", max);
-        printf("%s", longest);
+        printf("%s\n", longest);
     }
 
     return 0;
